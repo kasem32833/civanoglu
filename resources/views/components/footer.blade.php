@@ -54,4 +54,42 @@
             </div>
         </div>
     </div>
+    <!-- footer-menu -->
+    <div class="flex pb-12 ">
+        <div class="w-1/4 pr-6">
+            <img width=100 src="../img/logo.jpeg" alt="">
+            <p class="text-sm mt-10">Lorem ipsum dolor sit amet.</p>
+        </div>
+        <div class="w-3/4 font-bold leading-7">
+            <div class="flex -mx-6">
+                <div class="flex-1 px-6">
+                    <ul>
+                        <li><a href="">Lorem ipsum dolor sit.</a></li>
+                        <li><a href="">Lorem ipsum dolor sit.</a></li>
+                        <li><a href="">Lorem ipsum dolor sit.</a></li>
+                        <li><a href="">Lorem ipsum dolor sit.</a></li>
+                    </ul>
+                </div>
+                <div class="flex-1 px-6">
+                    <ul>
+                        <li><a href="">Lorem ipsum dolor sit.</a></li>
+                        <li><a href="">Lorem ipsum dolor sit.</a></li>
+                        <li><a href="">Lorem ipsum dolor sit.</a></li>
+                        <li><a href="">Lorem ipsum dolor sit.</a></li>
+                    </ul>
+                </div>
+                <div class="flex-1 px-6">
+                    <ul>
+                        <li><a href="">Lorem ipsum dolor sit.</a></li>
+                        <li><a href="">Lorem ipsum dolor sit.</a></li>
+                        <li><a href="">Lorem ipsum dolor sit.</a></li>
+                        <li><a href="">Lorem ipsum dolor sit.</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
+
+<!-- footer image -->
+<img class="w-full h-32"src="../img/footer-bg.jpeg" alt="">
